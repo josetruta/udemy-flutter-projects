@@ -33,7 +33,7 @@ course is the ultimate resource for anyone who wants to build beautiful, respons
 - Modificar layouts baseado no tamanho da tela;
 - Construir Widgets adaptivos.
 
-  ## APP Meals
+## APP Meals
 [Clique para ir ao diretório.](https://github.com/josetruta/udemy-flutter-projects/tree/main/MealsApp)
 - Manusear screen stacks;
 - Utilizar Tab Bar e Side Drawers;
