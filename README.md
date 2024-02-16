@@ -17,7 +17,7 @@ course is the ultimate resource for anyone who wants to build beautiful, respons
 - Compreender e escrever código Dart e Flutter;
 - Trabalhar com Widgets.
 
- ## APP Flutter Quiz
+## APP Flutter Quiz
 [Clique para ir ao diretório.](https://github.com/josetruta/udemy-flutter-projects/tree/main/QuizApp)
 - Explorar e utilizar mais Widgets;
 - Gerar resultados condicionais e em lista;
