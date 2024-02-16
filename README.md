@@ -28,7 +28,14 @@ course is the ultimate resource for anyone who wants to build beautiful, respons
 ## APP Expenses Tracker
 [Clique para ir ao diretório.](https://github.com/josetruta/udemy-flutter-projects/tree/main/ExpensesTrackerApp)
 - Utilizar Modals, Dialogs, entre outros métodos;
-- Manuseiar user input básico;
+- Manusear user input básico;
 - Configurar e utilizar App Themes;
 - Modificar layouts baseado no tamanho da tela;
 - Construir Widgets adaptivos.
+
+  ## APP Meals
+[Clique para ir ao diretório.](https://github.com/josetruta/udemy-flutter-projects/tree/main/MealsApp)
+- Manusear screen stacks;
+- Utilizar Tab Bar e Side Drawers;
+- Gerenciar mudanças de estados cross-widget com Providers;
+- Configurar e adicionar animações explícitas e implícitas.
